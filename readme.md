@@ -101,7 +101,7 @@ pip install -r requirements.txt
 
 ```yaml
 # 唤醒词设置
-wake_word: 你好小七
+wake_word: nihao,xiaoqi
 
 # 语音识别服务地址
 FUNASR:
