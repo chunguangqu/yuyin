@@ -1,0 +1,59 @@
+name: 小七语音对话助手
+version: 1.0
+
+wake_word: 你好小七
+
+logging:
+  level: info
+
+interrupt: false
+# 是否开启工具调用
+StartTaskMode: true
+# 具体处理时选择的模块
+selected_module:
+  Recorder: RecorderPyAudio
+  VAD: SileroVAD
+  TTS: EdgeTTS
+  Player: PygameSoundPlayer
+
+Recorder:
+  RecorderPyAudio:
+    output_file: tmp/
+
+VAD:
+  SileroVAD:
+    sampling_rate: 16000
+    threshold: 0.5  # 降低阈值，提高VAD敏感度
+    min_silence_duration_ms: 200  # 增加静音持续时间
+
+FUNASR:
+    url: http://127.0.0.1:11542/AI/voice/audio/funasr
+
+LLM:
+    model_name: Qwen3-8B
+    url: http://127.0.0.1:11532/v1
+    api_key: sk-123
+
+# 天气API配置
+Weather:
+    api_key: 08d09a1507931f2c20dd3ac7260069b5
+    base_url: http://api.openweathermap.org/data/2.5/weather
+
+TTS:
+  EdgeTTS:
+    voice: zh-CN-XiaoxiaoNeural
+    output_file: tmp/
+    stream_mode: true  # 启用流式输出
+    chunk_size: 4096   # 流式输出的块大小
+
+
+
+Player:
+  PygameSoundPlayer: null
+  PygamePlayer: null
+  CmdPlayer: null
+  PyaudioPlayer: null
+
+
+
+

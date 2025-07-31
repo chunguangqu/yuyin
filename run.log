@@ -1,0 +1,67 @@
+2025-07-30 17:22:35 INFO     Started recording.
+2025-07-30 17:22:35 INFO     开始语音监听......
+2025-07-30 17:22:36 INFO     检测到语音开始
+2025-07-30 17:22:36 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:22:38 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000156275A5F10>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:22:38 INFO     检测到语音开始
+2025-07-30 17:22:38 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:22:40 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000156275E58B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:22:41 INFO     检测到语音开始
+2025-07-30 17:22:42 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:22:44 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000156275A5670>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:22:50 INFO     检测到语音开始
+2025-07-30 17:22:56 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:22:58 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000156275A5F10>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:22:58 INFO     检测到语音开始
+2025-07-30 17:22:59 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:01 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000156276121C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:01 INFO     检测到语音开始
+2025-07-30 17:23:04 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:06 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015627612D90>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:06 INFO     检测到语音开始
+2025-07-30 17:23:06 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:09 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001562765D6D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:09 INFO     检测到语音开始
+2025-07-30 17:23:09 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:11 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015627612220>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:11 INFO     检测到语音开始
+2025-07-30 17:23:22 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:24 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000156275A5EB0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:24 INFO     检测到语音开始
+2025-07-30 17:23:25 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:27 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015627612D00>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:27 INFO     检测到语音开始
+2025-07-30 17:23:29 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:31 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001562765D5E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:31 INFO     检测到语音开始
+2025-07-30 17:23:33 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:35 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000156277210A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:35 INFO     检测到语音开始
+2025-07-30 17:23:36 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:38 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001562765D850>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:38 INFO     检测到语音开始
+2025-07-30 17:23:41 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:43 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000156275A5DF0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:43 INFO     检测到语音开始
+2025-07-30 17:23:43 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:45 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015627612B50>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:45 INFO     检测到语音开始
+2025-07-30 17:23:45 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:47 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000156275A5A90>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:47 INFO     检测到语音开始
+2025-07-30 17:23:47 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:49 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001562765D4C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:49 INFO     检测到语音开始
+2025-07-30 17:23:49 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:51 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001562765D970>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:53 INFO     检测到语音开始
+2025-07-30 17:23:55 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:57 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015627612940>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:57 INFO     检测到语音开始
+2025-07-30 17:23:57 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:23:59 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000156275E5190>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:23:59 INFO     检测到语音开始
+2025-07-30 17:23:59 INFO     检测到语音结束，开始处理语音
+2025-07-30 17:24:01 ERROR    duplex处理出错: HTTPConnectionPool(host='127.0.0.1', port=11542): Max retries exceeded with url: /AI/voice/audio/funasr (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001562765D730>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-07-30 17:24:01 INFO     检测到语音开始
+2025-07-30 17:24:01 INFO     检测到语音结束，开始处理语音
